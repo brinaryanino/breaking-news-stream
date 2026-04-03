@@ -10,7 +10,7 @@ export default function Logo() {
         </div>
       </div>
       <span className="font-sans font-bold text-xl tracking-tight hidden sm:block">
-        Breaking News System
+        Breaking News Stream
       </span>
     </Link>
   );

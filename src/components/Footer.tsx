@@ -91,7 +91,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between pt-8 mt-12 border-t border-border/50 text-sm text-muted-foreground">
-          <p>© {currentYear} Breaking News System. All rights reserved.</p>
+          <p>© {currentYear} Breaking News Stream. All rights reserved.</p>
           <p className="mt-2 md:mt-0">
             Powered by CNN Indonesia API & Next.js
           </p>

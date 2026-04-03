@@ -23,7 +23,7 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "BNS - Breaking News System",
+  title: "BNS - Breaking News Stream",
   description: "Minimalist and premium breaking news from technology.",
 };
 

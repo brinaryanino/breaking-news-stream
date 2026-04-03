@@ -22,7 +22,7 @@ export default function AboutPage() {
           About BNS
         </h1>
         <p className="text-xl sm:text-2xl leading-relaxed text-muted-foreground font-medium">
-          <strong>Breaking News System (BNS)</strong> is a modern, fast, and reliable Indonesian news platform built for those who value clarity and efficiency.
+          <strong>Breaking News Stream (BNS)</strong> is a modern, fast, and reliable Indonesian news platform built for those who value clarity and efficiency.
         </p>
       </section>
 
